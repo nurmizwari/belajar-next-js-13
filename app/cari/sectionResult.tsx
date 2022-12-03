@@ -34,3 +34,4 @@ export default function SectionResult({ query }: Props) {
   );
 }
 // ini client component fetching menggunakan swr
+// test
